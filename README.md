@@ -1,2 +1,2 @@
 # webscraping
-WEB-SCRAPING using request, beautifulsoup, pandas in PYTHON
+WEB-SCRAPING using requests, BeautifulSoup, pandas in PYTHON
